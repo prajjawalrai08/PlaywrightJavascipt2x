@@ -15,14 +15,14 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
 - `lab08_JS` - Additional JavaScript concepts
 
 ### Chapter 03: Identifiers and Literals
-- `lab09_var_let_const.js` - `var`, `let`, and `const` examples
-- `lab10_functions.js` - Function declarations and expressions
-- `lab11_var_explained.js` - Deep dive into `var` behavior
-- `lab12_let_peoplelove.js` - `let` behavior and block scoping
-- `lab13_const.js` - `const` usage and immutability notes
-- `lab14_var_functionscope.js` - Function scope examples with `var`
-- `lab15_hoisting.js` - Hoisting examples and explanation
-- `VS_code_keyborad_shortcuts_windows.md` - VS Code keyboard shortcuts reference for Windows
+ - `lab09_var_let_const.js` - Compare `var`, `let`, and `const` scoping and usage
+ - `lab10_functions.js` - Examples of function declarations, expressions, and invocation
+ - `lab11_var_explained.js` - Pitfalls of `var` and function-scoped variables
+ - `lab12_let_peoplelove.js` - Block scoping, Temporal Dead Zone (TDZ) with `let`
+ - `lab13_const.js` - `const` behavior, immutability caveats and object mutation
+ - `lab14_var_functionscope.js` - Demonstrations of function scope and variable shadowing
+ - `lab15_hoisting.js` - Hoisting behavior: declarations vs. initialization (examples)
+ - `VS_code_keyborad_shortcuts_windows.md` - VS Code keyboard shortcuts reference for Windows
 
 ## Getting Started
 

@@ -15,6 +15,13 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
 - `lab08_JS` - Additional JavaScript concepts
 
 ### Chapter 03: Identifiers and Literals
+- `lab09_var_let_const.js` - `var`, `let`, and `const` examples
+- `lab10_functions.js` - Function declarations and expressions
+- `lab11_var_explained.js` - Deep dive into `var` behavior
+- `lab12_let_peoplelove.js` - `let` behavior and block scoping
+- `lab13_const.js` - `const` usage and immutability notes
+- `lab14_var_functionscope.js` - Function scope examples with `var`
+- `lab15_hoisting.js` - Hoisting examples and explanation
 - `VS_code_keyborad_shortcuts_windows.md` - VS Code keyboard shortcuts reference for Windows
 
 ## Getting Started
@@ -23,6 +30,7 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
 2. Ensure you have Node.js and npm installed
 3. Install Playwright: `npm install @playwright/test`
 4. Run the JavaScript files with Node.js: `node <filename>.js`
+	- Example: `node chapter_03_identifiers_literals/lab15_hoisting.js`
 
 ## Requirements
 
@@ -37,6 +45,7 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
 - Identifier rules and naming conventions
 - JavaScript literals and data types
 - VS Code setup and shortcuts
+ - Hoisting and variable initialization behavior
 
 ## License
 

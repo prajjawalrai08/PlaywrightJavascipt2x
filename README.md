@@ -24,6 +24,16 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab15_hoisting.js` - Hoisting behavior: declarations vs. initialization (examples)
  - `VS_code_keyborad_shortcuts_windows.md` - VS Code keyboard shortcuts reference for Windows
 
+### Chapter 04: Literals
+ - `lab_19_literals.js` - Basic examples of JavaScript literal types and `typeof`
+ - `lab20_null_undefined.js` - Difference between `null` and `undefined` with examples
+ - `lab21_null.js` - Short notes and examples about `null` usage
+ - `lab22_literals_all.js` - Overview of various literal types in JavaScript
+ - `lab23_literal_numbers_all.js` - Number types, BigInt, numeric literals and pitfalls
+ - `lab24_string.js` - String literals, escaping and common methods
+ - `lab25_template_literals.js` - Template literals and interpolation examples
+ - `lab26_Backtick_single_double.js` - Quick comparison: backticks vs single vs double quotes
+
 ## Getting Started
 
 1. Clone the repository

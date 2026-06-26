@@ -34,6 +34,17 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab25_template_literals.js` - Template literals and interpolation examples
  - `lab26_Backtick_single_double.js` - Quick comparison: backticks vs single vs double quotes
 
+### Chapter 05: Operators
+ - `lab27_operators.js` - Operator basics and categories
+ - `lab28_arithmatic_operator.js` - Arithmetic operators with examples
+ - `lab29_modulas_operator.js` - Modulus operator behavior
+ - `lab30_expo_op.js` - Exponentiation operator examples
+ - `lab31_compound_op_impIQ.js` - Compound assignment and increment/decrement
+ - `lab32_comparison_op.js` - Comparison operators and truthiness
+ - `lab33_comparison_strictvs_loose.js` - Strict vs loose comparison overview
+ - `lab34_IQ_loose_stricty.js` - Loose vs strict equality examples and pitfalls
+ - `lab35_confusing_comparison.js` - Confusing `==` vs `===` examples
+
 ## Getting Started
 
 1. Clone the repository

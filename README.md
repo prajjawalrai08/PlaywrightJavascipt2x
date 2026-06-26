@@ -22,6 +22,9 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab13_const.js` - `const` behavior, immutability caveats and object mutation
  - `lab14_var_functionscope.js` - Demonstrations of function scope and variable shadowing
  - `lab15_hoisting.js` - Hoisting behavior: declarations vs. initialization (examples)
+ - `lab16_hoisting_let_tdz.js` - Hoisting and TDZ with `let`
+ - `lab17_hoisting_block.js` - Block scope and hoisting behavior for block-scoped variables
+ - `lab18_hoisting_const.js` - `const` hoisting and immutability examples
  - `VS_code_keyborad_shortcuts_windows.md` - VS Code keyboard shortcuts reference for Windows
 
 ### Chapter 04: Literals
@@ -33,6 +36,7 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab24_string.js` - String literals, escaping and common methods
  - `lab25_template_literals.js` - Template literals and interpolation examples
  - `lab26_Backtick_single_double.js` - Quick comparison: backticks vs single vs double quotes
+ - `lab20_null_undefined.js` - Difference between `null` and `undefined` with examples
 
 ### Chapter 05: Operators
  - `lab27_operators.js` - Operator basics and categories
@@ -44,6 +48,12 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab33_comparison_strictvs_loose.js` - Strict vs loose comparison overview
  - `lab34_IQ_loose_stricty.js` - Loose vs strict equality examples and pitfalls
  - `lab35_confusing_comparison.js` - Confusing `==` vs `===` examples
+ - `lab36_logical_operators.js` - Logical operators with examples
+ - `lab37_string_concatination_op.js` - String concatenation and operator behavior
+ - `lab38_ternary_op.js` - Ternary operator usage examples
+ - `lab39_type_Op.js` - Type operator examples and `typeof`
+ - `lab40_Incre_Decre_Op.js` - Increment and decrement operator examples
+ - `lab41_NULL_OP.js` - Nullish coalescing and related operator behavior
 
 ## Getting Started
 

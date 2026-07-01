@@ -52,6 +52,14 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab37_string_concatination_op.js` - String concatenation and operator behavior
  - `lab38_ternary_op.js` - Ternary operator usage examples
  - `lab39_type_Op.js` - Type operator examples and `typeof`
+ - `lab40_Pre_increment_Op.js` - Prefix increment/decrement examples
+ - `lab41_NULL_OP.js` - Nullish coalescing and related operator behavior
+ - `lab42_Post_increment_op.js` - Postfix increment/decrement examples
+ - `lab_43_IQ_increment_op.js` - Interview-style increment operator questions
+ - `lab36_logical_operators.js` - Logical operators with examples
+ - `lab37_string_concatination_op.js` - String concatenation and operator behavior
+ - `lab38_ternary_op.js` - Ternary operator usage examples
+ - `lab39_type_Op.js` - Type operator examples and `typeof`
  - `lab40_Incre_Decre_Op.js` - Increment and decrement operator examples
  - `lab41_NULL_OP.js` - Nullish coalescing and related operator behavior
 

@@ -56,12 +56,15 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab41_NULL_OP.js` - Nullish coalescing and related operator behavior
  - `lab42_Post_increment_op.js` - Postfix increment/decrement examples
  - `lab_43_IQ_increment_op.js` - Interview-style increment operator questions
- - `lab36_logical_operators.js` - Logical operators with examples
- - `lab37_string_concatination_op.js` - String concatenation and operator behavior
- - `lab38_ternary_op.js` - Ternary operator usage examples
- - `lab39_type_Op.js` - Type operator examples and `typeof`
- - `lab40_Incre_Decre_Op.js` - Increment and decrement operator examples
- - `lab41_NULL_OP.js` - Nullish coalescing and related operator behavior
+
+### Chapter 06: If/Else Statements
+ - `lab43_else_if.js` - Else if conditional examples
+ - `lab44_if_elseif_else.js` - Complete if/else if/else patterns
+ - `lab45_reallife_if_else.js` - Real-world if/else use cases
+ - `lab46_if_else_API.js` - API response handling with conditionals
+ - `lab46_IQ.js` - Interview question style if/else problems
+ - `lab47_IQ_REAL.js` - Real-world interview questions
+ - `lab48_even_or_odd.js` - Even or odd number check example
 
 ## Getting Started
 

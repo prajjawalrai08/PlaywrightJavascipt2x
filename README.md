@@ -66,6 +66,11 @@ A comprehensive learning repository for Playwright testing framework and JavaScr
  - `lab47_IQ_REAL.js` - Real-world interview questions
  - `lab48_even_or_odd.js` - Even or odd number check example
 
+### Chapter 07: Switch Statements
+ - `lab50_switch_statement.js` - Basic switch statement examples
+ - `lab51_noBREAK.js` - Demonstrates switch fall-through without `break`
+ - `lab52_switch_group.js` - Grouped case examples in a switch statement
+
 ## Getting Started
 
 1. Clone the repository
